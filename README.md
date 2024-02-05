@@ -18,9 +18,6 @@ Hey, I'm Mustapha, a self-taught developer from Nigeria.<br> I thrive on craftin
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=musty4real2&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=musty4real2&icon=0&color=7)](https://visitcount.itsvg.in)
 
